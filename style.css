@@ -1,0 +1,22 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.landing {
+    display: flex;
+    height: 100vh;
+    background-image: url(images/plant-bg.jpg);
+    background-position: 50%;
+}
+
+.landing p {
+    font-size: 3em;
+    color: #FFFFFF;
+}
+
+.landing a {
+    flex-direction: row;
+}
+
